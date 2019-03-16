@@ -496,6 +496,7 @@ iframe {
 .alert-validate:hover:before {
   visibility: visible;
   opacity: 1;
+  
 }
 
 @media (max-width: 992px) {
